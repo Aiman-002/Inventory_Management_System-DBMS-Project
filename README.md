@@ -1,0 +1,1 @@
+This repository contains the final project for the Database and Management Systems (DBMS) course. The project is an Inventory Management System, built to manage and track inventory records efficiently. It includes database design, SQL queries for CRUD operations, and key functionalities like stock management, product tracking.
